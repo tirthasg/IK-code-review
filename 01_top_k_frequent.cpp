@@ -1,3 +1,4 @@
+// Helper function to implement strategy of any arbitrary worker
 void Helper(vector<vector<int>> &nums, int start, int end, int index)
 {
     // Base case or work done by leaf level worker
@@ -57,7 +58,7 @@ vector<int> QuickSelect(vector<vector<int>> &nums, int k)
     return result;
 }
 
-
+// Main function
 vector<int> find_top_k_frequent_elements(vector<int> &arr, int k) {
     // Write your code here.
     int N = arr.size();

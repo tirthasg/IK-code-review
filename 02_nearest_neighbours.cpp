@@ -9,6 +9,7 @@ long long Distance(vector<int> &point, int p_x, int p_y)
     return xDiff * xDiff + yDiff * yDiff;
 }
 
+// Helper function to implement strategy of any arbitrary worker
 void Helper(vector<vector<int>> &n_points, int start, int end, int index, int p_x, int p_y)
 {
     // Base case or work done by leaf level worker
@@ -52,6 +53,7 @@ void Helper(vector<vector<int>> &n_points, int start, int end, int index, int p_
     Helper(n_points, start, smaller - 1, index, p_x, p_y);
 }
 
+// Main code
 vector<vector<int>> nearest_neighbours(int p_x, int p_y, int k, vector<vector<int>> &n_points) {
     // Write your code here.
     int N = n_points.size();
