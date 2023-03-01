@@ -1,0 +1,19 @@
+Standard curriculum:
+
+1. Sorting
+2. Recursion
+3. Trees
+4. Graphs
+5. DP
+
+Possible list of extra topics:
+
+1. Binary search
+2. Prefix sums
+3. Sliding window
+4. Linked lists
+5. Bit manipulation
+6. Greedy algorithms
+7. Binary indexed trees, Segment trees, and Tries
+8. Stacks, and Queues
+
