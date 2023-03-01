@@ -8,12 +8,10 @@ Standard curriculum:
 
 Possible list of extra topics:
 
-1. Binary search
-2. Prefix sums
-3. Sliding window
-4. Linked lists
-5. Bit manipulation
-6. Greedy algorithms
-7. Binary indexed trees, Segment trees, and Tries
-8. Stacks, and Queues
-
+1. Prefix sums
+2. Sliding window
+3. Linked lists
+4. Bit manipulation
+5. Greedy algorithms
+6. Binary indexed trees, Segment trees, and Tries
+7. Stacks, and Queues
