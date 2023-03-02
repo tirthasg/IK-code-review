@@ -6,12 +6,13 @@ Standard curriculum:
 4. Graphs
 5. DP
 
-Possible list of extra topics:
+Floaters already available:
 
-1. Prefix sums
-2. Sliding window
-3. Linked lists
-4. Bit manipulation
-5. Greedy algorithms
-6. Binary indexed trees, Segment trees, and Tries
-7. Stacks, and Queues
+1. Arrays: Cycle sort, Prefix sums, Sliding window
+2. Linked lists: Floyd's cycle detection, Insertion & Deletion, List rearrangements & reversals
+3. Bit manipulation
+4. Greedy algorithms
+5. Binary indexed trees 
+6. Segment trees 
+7. Tries 
+8. Stacks & Queues: Design problem
